@@ -7,3 +7,7 @@
 
 ## 試してみよう！
 - [試せるサイト](https://epikijetesantakalu.github.io/phun-tuo/)
+
+## 情報
+- 現行バージョン・・・0.1.5
+- 収録文字数・・・150
